@@ -18,7 +18,7 @@ int main()
             b=k;
 
     }
-    printf("the largest miners the second one is a=%d  b=%d",a,b);
+    printf("the largest one is a=%d the second one is b=%d",a,b);
 
     return 0;
 }
